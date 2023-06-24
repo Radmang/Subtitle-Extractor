@@ -2,7 +2,6 @@
 Extracts and converts subtitles from a video file to the SUBRIP subtitle codec for external subtitle usage within services such as Jellyfin and Plex.
 
 ## Instructions
-Install ffmpeg (https://ffmpeg.org)
 
 Windows Users (TESTED AND WORKING)
 - Download and setup the path for 'FFMPEG for Windows' (get the full release build): https://www.gyan.dev/ffmpeg/builds/
