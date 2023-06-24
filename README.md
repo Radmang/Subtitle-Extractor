@@ -7,3 +7,7 @@ Windows Users (TESTED AND WORKING)
 
 Linux Users (NOT TESTED)
 - Download and use .sh file
+
+
+## Updates to come
+- Recursively iterate through the specified directory, and directories within, catching the appropriate video files
